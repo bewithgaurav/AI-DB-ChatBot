@@ -1,6 +1,6 @@
-# 🤖 AI Database Chatbot Demo
+# AI Database Chatbot Demo
 
-> Presented at **Azure SQL User Group Meetup** - December 2024
+> Presented at **Azure SQL User Group Meetup** - December 2025
 
 A demo showcasing **mssql-python** (Microsoft's native Python driver for SQL Server) combined with **Azure OpenAI** to build an AI-powered database chatbot.
 
@@ -97,4 +97,4 @@ Together = Magic! ✨
 
 ---
 
-*Built for Azure SQL User Group Demo - December 2024*
+*Built for Azure SQL User Group Demo - December 2025*
